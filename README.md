@@ -9,7 +9,6 @@ Sitio web de portafolio universitario y profesional creado para presentar proyec
 - CSS3 moderno
 - JavaScript Vanilla
 - Diseño responsive
-- GitHub Pages
 
 ## Estructura de carpetas
 
