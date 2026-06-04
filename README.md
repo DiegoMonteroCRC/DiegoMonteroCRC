@@ -1,7 +1,7 @@
 # Luis Diego Montero Vargas
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F80ED&height=220&section=header&text=Luis%20Diego%20Montero%20Vargas&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Data%20Analyst%20%7C%20SQL%20%26%20Python&descSize=18&descAlignY=58" alt="Header banner" />
+  <img src="https://img.shields.io/badge/Luis%20Diego%20Montero%20Vargas-Data%20Science%20Student%20%7C%20Data%20Analyst%20%7C%20SQL%20%26%20Python-2F80ED?style=for-the-badge&labelColor=0D1117" alt="Luis Diego Montero Vargas banner" />
 </p>
 
 <p align="center">
@@ -121,5 +121,5 @@ I am open to job opportunities, internships, data analysis projects, and collabo
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:0D1117&height=120&section=footer" alt="Footer banner" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Thanks for visiting" />
 </p>
