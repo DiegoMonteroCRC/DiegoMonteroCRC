@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 506">
+  <rect width="900" height="506" fill="#0b1728"/>
+  <rect x="92" y="96" width="220" height="312" rx="8" fill="#101f35" stroke="#243753"/>
+  <rect x="128" y="136" width="148" height="86" rx="6" fill="#2f80ed"/>
+  <circle cx="154" cy="270" r="18" fill="#8bbcff"/>
+  <circle cx="204" cy="270" r="18" fill="#8bbcff"/>
+  <circle cx="254" cy="270" r="18" fill="#8bbcff"/>
+  <path d="M410 364V152M500 364V236M590 364V186M680 364V278M770 364V122" stroke="#2f80ed" stroke-width="34" stroke-linecap="round"/>
+  <path d="M386 364h420" stroke="#243753" stroke-width="4"/>
+  <text x="92" y="66" fill="#f8fafc" font-family="Arial" font-size="38" font-weight="700">Movie Insights</text>
+  <text x="410" y="420" fill="#b7c4d8" font-family="Arial" font-size="24">EDA y visualizacion</text>
+</svg>

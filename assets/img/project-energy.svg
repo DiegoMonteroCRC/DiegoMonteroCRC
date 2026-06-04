@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 506">
+  <rect width="900" height="506" fill="#0b1728"/>
+  <path d="M84 392h732" stroke="#243753" stroke-width="4"/>
+  <path d="M120 352c70-96 126-28 192-92 62-60 104-128 178-74 58 42 98 106 174 44 42-34 74-42 116-8" fill="none" stroke="#2f80ed" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="312" cy="260" r="10" fill="#f8fafc"/>
+  <circle cx="490" cy="186" r="10" fill="#f8fafc"/>
+  <circle cx="664" cy="230" r="10" fill="#f8fafc"/>
+  <text x="84" y="92" fill="#f8fafc" font-family="Arial" font-size="38" font-weight="700">Consumo Energetico</text>
+  <text x="84" y="136" fill="#b7c4d8" font-family="Arial" font-size="24">Prediccion y analisis geoespacial</text>
+</svg>
